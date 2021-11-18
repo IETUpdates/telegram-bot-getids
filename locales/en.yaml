@@ -1,12 +1,11 @@
-start: "Hello${comma} ${username}! I am a computer program that can chat (also known as a 'bot') and I can tell you something about you and the messages you send me.\n\nTry it out, just forward me some messages ;)\n\n<b>Note from the developers:</b>\nThis is a very early version of the bot. Therefore a few things (explainatory texts, etc.) are still missing. If you can code, here is the <a href=\"https://github.com/wjclub/telegram-bot-getids\">GitHub repo</a>. If you don't know how to program, you can still help. Just tell us @wjclub."
+start: "Hello${comma} ${username}! \n 𝙄 𝘼m 𝘼 𝙎𝙞𝙢𝙥𝙡𝙚 𝘽𝙤𝙩 𝙏𝙤 𝙁𝙞𝙣𝙙 𝙄𝘿 𝙤𝙛 𝙋𝙚𝙧𝙨𝙤𝙣/𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙤𝙧 𝙂𝙧𝙤𝙪𝙥
 human: "there human"
 help: "Not implemented yet"
 idhelp: |
   <b>Account creation date</b>
 
   <b>How it works</b>
-  To quote @Superuser27: Interpolation on known registration dates of certain IDs.
-  The bot just has a large list of Account's IDs and their associated (known) creation dates and compares your id against this list.
+  I can tell you something about you and the messages you send me ."\nTry it out, just forward me some messages. If you don't know how to program, you can still help. Just tell us @IET_Support
 
   <b>My account creation date is wrong</b>
   Sure. That is why there is a "~" in front of it. It is just a guess and very often the IDs given out at a time differ very much from each other, resulting in a sheer data mess. So just consider the date as some sort of art.
