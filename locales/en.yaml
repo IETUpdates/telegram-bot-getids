@@ -1,6 +1,8 @@
 start: "Hello${comma} ${username}! \n 𝙄 𝘼m 𝘼 𝙎𝙞𝙢𝙥𝙡𝙚 𝘽𝙤𝙩 𝙏𝙤 𝙁𝙞𝙣𝙙 𝙄𝘿 𝙤𝙛 𝙋𝙚𝙧𝙨𝙤𝙣/𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙤𝙧 𝙂𝙧𝙤𝙪𝙥
 human: "there human"
-help: "Not implemented yet"
+help: "<b>Just forward any message from any chat and see the Magic 🏌️‍♂️</b>
+
+<code>I can tell you something about you and the messages you send me .</code>\nTry it out, just forward me some messages. If you don't know how to program, you can still help. Just tell us @IET_Support"
 idhelp: |
   😘
 older_than: "older than"
