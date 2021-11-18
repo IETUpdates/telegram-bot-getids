@@ -2,13 +2,7 @@ start: "Hello${comma} ${username}! \n 𝙄 𝘼m 𝘼 𝙎𝙞𝙢𝙥𝙡𝙚 �
 human: "there human"
 help: "Not implemented yet"
 idhelp: |
-  <b>Account creation date</b>
-
-  <b>How it works</b>
-  I can tell you something about you and the messages you send me ."\nTry it out, just forward me some messages. If you don't know how to program, you can still help. Just tell us @IET_Support
-
-  <b>My account creation date is wrong</b>
-  Sure. That is why there is a "~" in front of it. It is just a guess and very often the IDs given out at a time differ very much from each other, resulting in a sheer data mess. So just consider the date as some sort of art.
+  😘
 older_than: "older than"
 newer_than: "newer than"
 aprox: "~"
